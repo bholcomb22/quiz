@@ -1,0 +1,32 @@
+/* Cascading Stylesheets */
+/* CSS selector */
+
+body {
+	text-align: center;
+	background-image: url(../img/michael.jpg);
+	background-size: cover;
+	font-family: 'Inconsolata', monospace;
+
+}
+
+.begin {
+	height: 40px;
+	width: 120px;
+	background-color: #d2a679;
+	border: none;
+}
+
+.quizName {
+	margin: 50px 0 25px 0;
+
+}
+
+.answerButton {
+	background-color: #d2a679;
+	border: none;
+	margin-right: 10px;
+}
+
+.wrong {
+	background-color: red;
+}
